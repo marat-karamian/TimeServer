@@ -7,7 +7,7 @@ public class Server {
         this.server = server;
     }
 
-    public void register1() {
+    public void process() {
         server.getTime();
     }
 }
